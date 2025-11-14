@@ -68,7 +68,3 @@ This program helps students:
 - **Non-numeric math answers show "EEE" message**
 
 - **Program gracefully handles unexpected user input**
-
-## License
-
-This project is produced by **KANAH N. VIANNEY G.** and part of the CS50 curriculum and is distributed under the CS50 License.
